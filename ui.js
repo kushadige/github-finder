@@ -14,7 +14,7 @@ class UI {
                     </div>
                     <div class="col-md-9">
                         <span class="badge bg-primary">Public Repos: ${user.public_repos}</span>
-                        <span class="badge bg-secondary">Public Gists: ${user.puplic_gists}</span>
+                        <span class="badge bg-secondary">Public Gists: ${user.public_gists}</span>
                         <span class="badge bg-success">Followers: ${user.followers}</span>
                         <span class="badge bg-info">Following: ${user.following}</span>
                         <br><br>
